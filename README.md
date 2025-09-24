@@ -1,4 +1,5 @@
-# Student Seminar in False Discoveries in Particle Physics: Rubbia's fail, the false discovery of the top quark
+# Student Seminar: False Discoveries in Particle Physics
+### Rubbia's fail: The False Discovery of the Top Quark
 The student seminar presentation on False Discoveries in Particle Physics taken during the second semester of IMAPP in TU Dortmund University. 
 The seminar was presented on June 5, 2025.
 
