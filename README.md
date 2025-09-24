@@ -15,3 +15,4 @@ For this seminar a lot of references including papers, interviews etc. were used
 - [Paper (online source)](https://www.sciencedirect.com/science/article/abs/pii/0370269384914102?via%3Dihub)
 
 ## License
+This work is licensed under **CC BY 4.0**. See the [`LICENSE`](LICENSE) file for full details.
